@@ -3,5 +3,6 @@ def using_until
   #your code here
   until levitation_force
     puts "hello"
+    levitation_force = false
   end
 end
